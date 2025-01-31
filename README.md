@@ -22,7 +22,7 @@ The **Air Quality Dashboard** is a web-based application that retrieves real-tim
 ## 🔧 Installation  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/Air-Quality-Dashboard.git
+   git clone https://github.com/Fusion-Engineer/Air-Quality-Dashboard.git
 2. Navigate to the project folder: cd Air-Quality-Dashboard
 3. Set up a local server (XAMPP, LAMP, or WAMP recommended).
 4. Update API keys and configuration.
